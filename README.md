@@ -1,2 +1,2 @@
-# itrhx.com-images
-www.itrhx.com 博客图床
+# ImageHosting
+博客图床
